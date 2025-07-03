@@ -1,0 +1,64 @@
+.prepare-payroll-container {
+    padding: 20px;
+    margin-top: 80px; /* Pushes content below the top bar */
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2, h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .payroll-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .payroll-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #0056b3;
+  }
+  
+  .payroll-table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .payroll-table th, .payroll-table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  
+  .approve-btn {
+    background: green;
+    color: white;
+    margin-right: 5px;
+  }
+  
+  .reject-btn {
+    background: red;
+    color: white;
+  }
+  
