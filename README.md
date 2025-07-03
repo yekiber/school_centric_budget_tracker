@@ -18,10 +18,9 @@ Features
 <<<<<<< HEAD
 . Backend: Node.js, Express.js, MongoDB 
 =======
-. Backend: Node.js, Express.js, MongoDB / postgress...
->>>>>>> zekariyas
+. Backend: Node.js, Express.js, MongoDB
 
-. Database: MongoDB / postgress...
+. Database: MongoDB
 
 
 . Authentication: JWT for user authentication
@@ -48,11 +47,6 @@ npm (Node Package Manager)
 
 ---
 
-# Installation you will use git software
-
-Clone the repository to your local machine:
-
-. git clone https://github.com/abigia-t/School-budget-tracker.git
 
 Navigate into the project folder:
 
@@ -64,4 +58,3 @@ Navigate into the project folder:
 
 you will install other packages also, contact me if you need help.
 
-# zeki
